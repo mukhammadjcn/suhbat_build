@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.94493b33.css",
+    "main.js": "/static/js/main.6893c9ac.js",
+    "static/media/doc2.png": "/static/media/doc2.03824bb5dd0dfbdc9f44.png",
+    "static/media/doc1.png": "/static/media/doc1.060e02cb365bb8f381eb.png",
+    "static/media/BG.png": "/static/media/BG.a469553e03cfac99b516.png",
+    "static/media/intro1.png": "/static/media/intro1.333c02875c6d48a44a8f.png",
+    "static/media/video.png": "/static/media/video.192f22930654dab7d703.png",
+    "static/media/intro2.png": "/static/media/intro2.9720554bf85d2e6518a9.png",
+    "static/media/stat.png": "/static/media/stat.5821e8744d596851389e.png",
+    "static/media/step2current.svg": "/static/media/step2current.647d6da0f234baca4363296df1c52339.svg",
+    "static/media/step2.svg": "/static/media/step2.d0d042752269ff94efa6344e8370376f.svg",
+    "static/media/step2done.svg": "/static/media/step2done.ad75703f22d441bbebe032d938b45fbe.svg",
+    "static/media/step3current.svg": "/static/media/step3current.0ba8561fa6aca2f1e54a1dfaca1301b6.svg",
+    "static/media/step3.svg": "/static/media/step3.5f1bc3265e348be16c6ef7af45802b37.svg",
+    "static/media/step3done.svg": "/static/media/step3done.46117c7d59b286f5e623f77434d0f28e.svg",
+    "static/media/step1.svg": "/static/media/step1.ede5e9d3d6ea11979fcdf90bfa49adf9.svg",
+    "static/media/step1done.svg": "/static/media/step1done.3f705f501ae2a2685591f64a3acfe04f.svg",
+    "static/media/success.svg": "/static/media/success.18174eb757f0ccc3a5b53d121635bca2.svg",
+    "index.html": "/index.html",
+    "main.94493b33.css.map": "/static/css/main.94493b33.css.map",
+    "main.6893c9ac.js.map": "/static/js/main.6893c9ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94493b33.css",
+    "static/js/main.6893c9ac.js"
+  ]
+}
