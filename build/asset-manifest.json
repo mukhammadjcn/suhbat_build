@@ -1,13 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.bda0213b.css",
-    "main.js": "/static/js/main.0cf6f8df.js",
-    "static/media/doc2.png": "/static/media/doc2.03824bb5dd0dfbdc9f44.png",
+    "main.css": "/static/css/main.360dc876.css",
+    "main.js": "/static/js/main.1c95bd89.js",
+    "static/media/Классификатор_техникум_ОТМ_compressed.pdf": "/static/media/Классификатор_техникум_ОТМ_compressed.916ed062cecfa95a1a06.pdf",
     "static/media/doc1.png": "/static/media/doc1.060e02cb365bb8f381eb.png",
     "static/media/BG.png": "/static/media/BG.a469553e03cfac99b516.png",
     "static/media/intro1.png": "/static/media/intro1.2539d062ae149eacbb72.png",
+    "static/media/jshshr.png": "/static/media/jshshr.5a8ad0d2dfd1eb97db2a.png",
     "static/media/video.png": "/static/media/video.192f22930654dab7d703.png",
+    "static/media/sana.png": "/static/media/sana.c69e8b187a2eec3d31cf.png",
     "static/media/intro2.png": "/static/media/intro2.e53651a69e12bec8307c.png",
+    "static/media/doc2.jpg": "/static/media/doc2.b53907fb44e67a8fb241.jpg",
     "static/media/stat.png": "/static/media/stat.5821e8744d596851389e.png",
     "static/media/step2current.svg": "/static/media/step2current.647d6da0f234baca4363296df1c52339.svg",
     "static/media/step2.svg": "/static/media/step2.d0d042752269ff94efa6344e8370376f.svg",
@@ -19,11 +22,11 @@
     "static/media/step1done.svg": "/static/media/step1done.3f705f501ae2a2685591f64a3acfe04f.svg",
     "static/media/success.svg": "/static/media/success.18174eb757f0ccc3a5b53d121635bca2.svg",
     "index.html": "/index.html",
-    "main.bda0213b.css.map": "/static/css/main.bda0213b.css.map",
-    "main.0cf6f8df.js.map": "/static/js/main.0cf6f8df.js.map"
+    "main.360dc876.css.map": "/static/css/main.360dc876.css.map",
+    "main.1c95bd89.js.map": "/static/js/main.1c95bd89.js.map"
   },
   "entrypoints": [
-    "static/css/main.bda0213b.css",
-    "static/js/main.0cf6f8df.js"
+    "static/css/main.360dc876.css",
+    "static/js/main.1c95bd89.js"
   ]
 }
