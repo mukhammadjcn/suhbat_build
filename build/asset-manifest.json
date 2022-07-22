@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.2b24c502.css",
-    "main.js": "/static/js/main.9655bf1a.js",
+    "main.js": "/static/js/main.b374e4ac.js",
     "static/media/Классификатор_техникум_ОТМ_compressed.pdf": "/static/media/Классификатор_техникум_ОТМ_compressed.916ed062cecfa95a1a06.pdf",
     "static/media/doc1.png": "/static/media/doc1.060e02cb365bb8f381eb.png",
     "static/media/BG.png": "/static/media/BG.a469553e03cfac99b516.png",
@@ -23,10 +23,10 @@
     "static/media/success.svg": "/static/media/success.18174eb757f0ccc3a5b53d121635bca2.svg",
     "index.html": "/index.html",
     "main.2b24c502.css.map": "/static/css/main.2b24c502.css.map",
-    "main.9655bf1a.js.map": "/static/js/main.9655bf1a.js.map"
+    "main.b374e4ac.js.map": "/static/js/main.b374e4ac.js.map"
   },
   "entrypoints": [
     "static/css/main.2b24c502.css",
-    "static/js/main.9655bf1a.js"
+    "static/js/main.b374e4ac.js"
   ]
 }
